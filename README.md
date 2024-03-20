@@ -1,3 +1,3 @@
 # UIST
 
-Support Space Template
+Launchpad Space Template
